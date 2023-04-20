@@ -1,9 +1,6 @@
 <h1 align="center">Hello there, I am Kshitij Priyank</h1>
 <h3 align="center">I'm a student at NIT Hamirpur with a passion for learning and exploring new things.</h3>
 
-img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/121155434/233416562-854888e0-a285-4977-85dc-0d0105b16e3d.png)
-"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijpriyank&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijpriyank" /> </p>
 
 - 📫 How to reach me **kshitijpriyank@gmail.com**
