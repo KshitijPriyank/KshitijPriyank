@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kshitijpriyank@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yJU5u2yA4IQ6RoPeGKHntCfRriPQPkz-/view?usp=sharing](https://drive.google.com/file/d/1yJU5u2yA4IQ6RoPeGKHntCfRriPQPkz-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17-FYA2gFPcNYAMr_Q-wWd5gu8ETYzq_q/view?usp=sharing](https://drive.google.com/file/d/17-FYA2gFPcNYAMr_Q-wWd5gu8ETYzq_q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
